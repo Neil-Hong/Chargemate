@@ -27,8 +27,21 @@ This project uses multiple blockchains to Empowering Eco-Friendly Driving Practi
 - ChainLink: to convert $CMN from Base into $USDT
 - NounsDAO: to empower community, as Nounish Public Goods.  
 
-## Project Files 
+## Mantle & Base Deployment (Testnet)
+Two  include: 
+- Reward.sol: Caculate the reward, based on recorded Eco-Friendly driving
+- Convert.sol: Convert 
 
+Both Solidity files have been deployed into Testnet:
 
+### Reward Calculator Smart Contract 
 
+Mantle Sepolia Contract: [0x204a54bb22d55cfd12230a4e7c70f9886050405e](https://sepolia.etherscan.io/address/0x204a54bb22d55cfd12230a4e7c70f9886050405e)
+Base Moonbase Sepolia Contract: [0x1779b47139eb26e437c3fdcc91168e24a447a645](https://sepolia.etherscan.io/address/0x1779b47139eb26e437c3fdcc91168e24a447a645)
+
+### ChainLink to USDT Convert Smart Contract 
+
+Pricefeed: ETH/USD 0x694AA1769357215DE4FAC081bf1f309aDC325306 (mock)
+Mantle Sepolia Contract:  [0x1635be11135481c33bf290bd1486a293c134e017](https://sepolia.etherscan.io/address/0x1635be11135481c33bf290bd1486a293c134e017)
+Base Sepolia Contract:  [0x7ac399c52e2dc4b89478247b767cb6f70bf2e9e9](https://sepolia.etherscan.io/address/0x7ac399c52e2dc4b89478247b767cb6f70bf2e9e9)
 

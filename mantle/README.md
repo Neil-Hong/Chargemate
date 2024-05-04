@@ -1,4 +1,4 @@
-# Mantle Hardhat Starter Kit
+# Mantle
 
 This repo is designed to help you overcome version conflicts and how to configure Mantle Network in custom chain to address contract verification issues. If you've encountered problems with verifying your smart contracts on Mantle, this kit is here to simplify the process for you.
 

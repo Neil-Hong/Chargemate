@@ -55,8 +55,15 @@ Base Sepolia Contract:  [0x7ac399c52e2dc4b89478247b767cb6f70bf2e9e9](https://sep
 
 ## Demo Application (Testnet)
 
-A working in progress demo has been deployed onto Testnet, and available at: https://ethglobal-chargemate.vercel.app. Note: the project is under development and testing - therefore, further improvement is need to fix any issues. 
-
 ![alt text](/test/Demo.png)
 
+A working in progress demo has been deployed onto Testnet, and available at: https://ethglobal-chargemate.vercel.app. Note: the project is under development and testing - therefore, further improvement is need to fix any issues. 
+
+## Worldcoin ID Integration (Testnet)
+
+![alt text](/test/Demo-WorldCoint.png)
+
+![alt text](/test/WorldCoint.png)
+
+Worldcoin ID is used to verify driver and vehicle ownership, and also to avoid cheating (multiple concurrent Apps), ensure accountability and safety. Due to the scope of work, and the complexity of integration, the project plans to continue integrating Worldcoin ID in Q3 2024. 
 

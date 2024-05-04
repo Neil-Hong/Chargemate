@@ -7,6 +7,10 @@ Project Submisson for EthGlobal Sydney, May 2024, Sydney Australia
 
 Worldcoin, Mantle, Base, Chainlink, and NounsDAO
 
+## ChargeMateNouns ($CMN) Tokens (Testnet)
+
+The deployment informatipn of the $CMN token on testnet can be found in /contracts directory.
+
 ## Eco-Friendly Driving Practices
 
 Promoting eco-friendly driving practices is crucial for mitigating the impact of transportation on the environment:
@@ -44,4 +48,10 @@ Base Moonbase Sepolia Contract: [0x1779b47139eb26e437c3fdcc91168e24a447a645](htt
 Pricefeed: ETH/USD 0x694AA1769357215DE4FAC081bf1f309aDC325306 (mock)
 Mantle Sepolia Contract:  [0x1635be11135481c33bf290bd1486a293c134e017](https://sepolia.etherscan.io/address/0x1635be11135481c33bf290bd1486a293c134e017)
 Base Sepolia Contract:  [0x7ac399c52e2dc4b89478247b767cb6f70bf2e9e9](https://sepolia.etherscan.io/address/0x7ac399c52e2dc4b89478247b767cb6f70bf2e9e9)
+
+## Demo Application (Testnet)
+
+A working in progress demo has been deployed onto Testnet, and available at: https://ethglobal-chargemate.vercel.app. Note: the project is under development and testing - therefore, further improvement is need to fix any issues. 
+
+![alt text](/test/Demo.png)
 

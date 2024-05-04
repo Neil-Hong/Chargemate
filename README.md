@@ -35,19 +35,26 @@ This project uses multiple blockchains to Empowering Eco-Friendly Driving Practi
 - ChainLink: to convert $CMN from Base into $USDT
 - NounsDAO: to empower community, as Nounish Public Goods.  
 
-## Mantle & Base Deployment (Testnet)
+## Smart Contracts to Empower Driver/Community - Mantle & Base Deployment (Testnet)
+
+![alt text](/test/Solution.png)
+
 Two  include: 
 - Reward.sol: Caculate the reward, based on recorded Eco-Friendly driving
 - Convert.sol: Convert the token into USDT
 
 Both Solidity files have been deployed into Testnet:
 
-### Reward Calculator Smart Contract 
+### Mantle & Base Reward Calculator Smart Contract 
+
+![alt text](/test/EmpowerDriver.png)
 
 Mantle Sepolia Contract: [0x204a54bb22d55cfd12230a4e7c70f9886050405e](https://sepolia.etherscan.io/address/0x204a54bb22d55cfd12230a4e7c70f9886050405e)
 Base Moonbase Sepolia Contract: [0x1779b47139eb26e437c3fdcc91168e24a447a645](https://sepolia.etherscan.io/address/0x1779b47139eb26e437c3fdcc91168e24a447a645)
 
 ### ChainLink to USDT Convert Smart Contract 
+
+![alt text](/test/EmpowerCommunity.png)
 
 Pricefeed: ETH/USD 0x694AA1769357215DE4FAC081bf1f309aDC325306 (mock)
 Mantle Sepolia Contract:  [0x1635be11135481c33bf290bd1486a293c134e017](https://sepolia.etherscan.io/address/0x1635be11135481c33bf290bd1486a293c134e017)
@@ -61,9 +68,11 @@ A working in progress demo has been deployed onto Testnet, and available at: htt
 
 ## Worldcoin ID Integration (Testnet)
 
+![alt text](/test/Worldcoin.png)
+
 ![alt text](/test/Demo-WorldCoint.png)
 
-![alt text](/test/WorldCoint.png)
+Worldcoin ID is used to verify driver and vehicle ownership, and also to avoid cheating (multiple concurrent Apps), ensure accountability and safety. Due to the scope of work, and the complexity of integration, the project plans to continue integrating Worldcoin ID in Q3 2024.
 
-Worldcoin ID is used to verify driver and vehicle ownership, and also to avoid cheating (multiple concurrent Apps), ensure accountability and safety. Due to the scope of work, and the complexity of integration, the project plans to continue integrating Worldcoin ID in Q3 2024. 
+
 

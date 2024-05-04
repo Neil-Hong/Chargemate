@@ -1,4 +1,4 @@
-![alt text](/test/ChargeMateNounce46.png)
+![alt text](https://github.com/Neil-Hong/Chargemate/blob/main/images/ChargeMateNounce46.png)
 
 # ChargeMateNouns 46  
 
@@ -14,7 +14,7 @@ The deployment informatipn of the $CMN token on testnet can be found in /contrac
 
 ## Eco-Friendly Driving Practices
 
-![alt text](/test/Problem.png)
+![alt text](https://github.com/Neil-Hong/Chargemate/blob/main/images/Problem.png)
 
 Promoting eco-friendly driving practices is crucial for mitigating the impact of transportation on the environment:
 - Mitigating Climate Impact: Poor driving practices contribute significantly to greenhouse gas emissions, which are a primary driver of climate change. By empowering individuals with knowledge and incentives to adopt eco-friendly driving habits, we can collectively reduce the carbon footprint of transportation and contribute to climate mitigation efforts.
@@ -26,7 +26,7 @@ Empowerment in this context involves education, awareness campaigns, incentives,
 
 ## The ChargeMateNouns 46 Project
 
-![alt text](/test/Solution.png)
+![alt text](https://github.com/Neil-Hong/Chargemate/blob/main/images/Solution.png)
 
 ChargeMateNouns 46 is a community to Reward for Eco-Friendly Driving, powered by the NounsDAO. The project also uses additional blockchain technologies (including Worldcoin, Mantle, Base, Chainlink) to enroll driver, and to empower Eco-Friendly driving.
 This project uses multiple blockchains to Empowering Eco-Friendly Driving Practices: 
@@ -46,14 +46,14 @@ Both Solidity files have been deployed into Testnet:
 
 ### Mantle & Base Reward Calculator Smart Contract 
 
-![alt text](/test/EmpowerDriver.png)
+![alt text](https://github.com/Neil-Hong/Chargemate/blob/main/images/EmpowerDriver.png)
 
 Mantle Sepolia Contract: [0x204a54bb22d55cfd12230a4e7c70f9886050405e](https://sepolia.etherscan.io/address/0x204a54bb22d55cfd12230a4e7c70f9886050405e)
 Base Moonbase Sepolia Contract: [0x1779b47139eb26e437c3fdcc91168e24a447a645](https://sepolia.etherscan.io/address/0x1779b47139eb26e437c3fdcc91168e24a447a645)
 
 ### ChainLink to USDT Convert Smart Contract 
 
-![alt text](/test/EmpowerCommunity.png)
+![alt text](https://github.com/Neil-Hong/Chargemate/blob/main/images/EmpowerCommunity.png)
 
 Pricefeed: ETH/USD 0x694AA1769357215DE4FAC081bf1f309aDC325306 (mock)
 Mantle Sepolia Contract:  [0x1635be11135481c33bf290bd1486a293c134e017](https://sepolia.etherscan.io/address/0x1635be11135481c33bf290bd1486a293c134e017)
@@ -61,21 +61,21 @@ Base Sepolia Contract:  [0x7ac399c52e2dc4b89478247b767cb6f70bf2e9e9](https://sep
 
 ## Demo Application (Testnet)
 
-![alt text](/test/Demo.png)
+![alt text](https://github.com/Neil-Hong/Chargemate/blob/main/images/Demo.png)
 
 A working in progress demo has been deployed onto Testnet, and available at: https://ethglobal-chargemate.vercel.app. Note: the project is under development and testing - therefore, further improvement is need to fix any issues. 
 
 ## Worldcoin ID Integration (Testnet)
 
-![alt text](/test/Worldcoin.png)
+![alt text](https://github.com/Neil-Hong/Chargemate/blob/main/images/Worldcoin.png)
 
-![alt text](/test/Demo-WorldCoint.png)
+![alt text](https://github.com/Neil-Hong/Chargemate/blob/main/images/Demo-WorldCoint.png)
 
 Worldcoin ID is used to verify driver and vehicle ownership, and also to avoid cheating (multiple concurrent Apps), ensure accountability and safety. Due to the scope of work, and the complexity of integration, the project plans to continue integrating Worldcoin ID in Q3 2024.
 
 ## Team - ChargeMateNouns 46
 
-![alt text](/test/Team.png)
+![alt text](https://github.com/Neil-Hong/Chargemate/blob/main/images/Team.png)
 
 Meeting the team ! Please get in touch for collaborations.  
 

@@ -13,7 +13,7 @@ The deployment informatipn of the $CMN token on testnet can be found in /contrac
 
 ## Eco-Friendly Driving Practices
 
-![alt text](/test/1. Problem.png)
+![alt text](/test/Problem.png)
 
 Promoting eco-friendly driving practices is crucial for mitigating the impact of transportation on the environment:
 - Mitigating Climate Impact: Poor driving practices contribute significantly to greenhouse gas emissions, which are a primary driver of climate change. By empowering individuals with knowledge and incentives to adopt eco-friendly driving habits, we can collectively reduce the carbon footprint of transportation and contribute to climate mitigation efforts.
@@ -25,7 +25,7 @@ Empowerment in this context involves education, awareness campaigns, incentives,
 
 ## The ChargeMateNouns 46 Project
 
-![alt text](/test/2. Solution)
+![alt text](/test/Solution.png)
 
 ChargeMateNouns 46 is a community to Reward for Eco-Friendly Driving, powered by the NounsDAO. The project also uses additional blockchain technologies (including Worldcoin, Mantle, Base, Chainlink) to enroll driver, and to empower Eco-Friendly driving.
 This project uses multiple blockchains to Empowering Eco-Friendly Driving Practices: 

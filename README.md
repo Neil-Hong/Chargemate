@@ -34,7 +34,7 @@ This project uses multiple blockchains to Empowering Eco-Friendly Driving Practi
 ## Mantle & Base Deployment (Testnet)
 Two  include: 
 - Reward.sol: Caculate the reward, based on recorded Eco-Friendly driving
-- Convert.sol: Convert 
+- Convert.sol: Convert the token into USDT
 
 Both Solidity files have been deployed into Testnet:
 
@@ -54,4 +54,5 @@ Base Sepolia Contract:  [0x7ac399c52e2dc4b89478247b767cb6f70bf2e9e9](https://sep
 A working in progress demo has been deployed onto Testnet, and available at: https://ethglobal-chargemate.vercel.app. Note: the project is under development and testing - therefore, further improvement is need to fix any issues. 
 
 ![alt text](/test/Demo.png)
+
 

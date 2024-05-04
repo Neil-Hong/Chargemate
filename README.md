@@ -1,29 +1,25 @@
+# ChargeMateNouns 46
+
+Project Submisson for EthGlobal Sydney, May 2024, Sydney Australia
+
+Empowering Eco-Friendly Driving Practices
+
+## Technology Stack
+
+Worldcoin, Mantle, Base, Chainlink, and NounsDAO
+
+## Eco-Friendly Driving Practices
+
+ChargeMateNouns 46 is a community to Reward for Eco-Friendly Driving.
+
+Promoting eco-friendly driving practices is crucial for mitigating the impact of transportation on the environment:
+- Mitigating Climate Impact: Poor driving practices contribute significantly to greenhouse gas emissions, which are a primary driver of climate change. By empowering individuals with knowledge and incentives to adopt eco-friendly driving habits, we can collectively reduce the carbon footprint of transportation and contribute to climate mitigation efforts.
+
+- Reducing Air Pollution: Vehicles emit pollutants such as nitrogen oxides, particulate matter, and volatile organic compounds, which contribute to poor air quality and respiratory health issues. Eco-friendly driving practices, such as avoiding idling, maintaining proper tire pressure, and driving smoothly, can help reduce emissions and improve air quality in urban areas.
+- Improving Energy Efficiency: Eco-friendly driving practices focus on maximizing energy efficiency by optimizing fuel consumption and reducing waste. This not only reduces greenhouse gas emissions but also saves money on fuel costs for drivers. By promoting techniques such as eco-driving and vehicle maintenance, we can enhance the energy efficiency of the transportation sector.
+- Encouraging Adoption of Electric Vehicles: Eco-friendly driving practices are closely linked to the adoption of electric vehicles (EVs) and other alternative fuel vehicles. By promoting these practices, we can create a supportive environment for EV adoption, which further reduces greenhouse gas emissions and dependence on fossil fuels.
+Empowerment in this context involves education, awareness campaigns, incentives, and infrastructure development to support eco-friendly driving practices. This can include providing information on eco-driving techniques, offering incentives for fuel-efficient driving behaviour, expanding public transportation options, and investing in EV charging infrastructure.
 
 
 
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
-## Technical Reference Next.JS Documentation
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.

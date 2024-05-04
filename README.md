@@ -5,6 +5,8 @@ Empowering Eco-Friendly Driving Practices. Project Submisson for EthGlobal Sydne
 
 ## Technology Stack
 
+![alt text](/test/Cover.png)
+
 Worldcoin, Mantle, Base, Chainlink, and NounsDAO
 
 ## ChargeMateNouns ($CMN) Tokens (Testnet)
@@ -73,6 +75,13 @@ A working in progress demo has been deployed onto Testnet, and available at: htt
 ![alt text](/test/Demo-WorldCoint.png)
 
 Worldcoin ID is used to verify driver and vehicle ownership, and also to avoid cheating (multiple concurrent Apps), ensure accountability and safety. Due to the scope of work, and the complexity of integration, the project plans to continue integrating Worldcoin ID in Q3 2024.
+
+## Team - ChargeMateNouns 46
+
+![alt text](/test/Team.png)
+
+Meeting the team ! Please get in touch for collaborations.  
+
 
 
 

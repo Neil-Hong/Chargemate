@@ -1,31 +1,31 @@
 # Preparation
 
-To mint the CMN (Chargemate Token), you need to use [Remix](https://remix.ethereum.org/) to deploy the smart contract.
+To mint the CMN (Chargemate Token), you need to use [Remix](https://remix.ethereum.org/) to deploy the smart contract.<br/>
 And you also need to have the wallet, download [here](https://metamask.io/download/) .
 
 # Token
 
-This is the "Chargemate Token" smart contract wrote it in solidity.
+This is the "Chargemate Token" smart contract wrote in solidity.
 
 Firstly, deploy the contract through your wallet address.
 
 As shown below, you have to choose the environment as **"Injected Provider - Metamask"**. Then click **"Deploy"**.
-![image](https://github.com/Neil-Hong/Chargemate/blob/main/CMN%20Token/image/deploy.png)
+![image](https://github.com/Neil-Hong/Chargemate/blob/main/public/deploy.png)
 
-After deployed contract, we get the **CMN token address** - **0xb01e6cDa798A5Ff52fc865b39055f3FD913025D9**.
+After deployed contract, we can get the **CMN token address** - **0xb01e6cDa798A5Ff52fc865b39055f3FD913025D9**.
 
 ---
 
 Then expand the deployed token contract, mint the token to your wallet address, amount fill as 10000 as example
-![image](https://github.com/Neil-Hong/Chargemate/blob/main/CMN%20Token/image/mint.png)
+![image](https://github.com/Neil-Hong/Chargemate/blob/main/public/mint.png)
 
 After that, call the **balance of** function to verify the amount, it should return the result as shown below
-![image](https://github.com/Neil-Hong/Chargemate/blob/main/CMN%20Token/image/balance.png)
+![image](https://github.com/Neil-Hong/Chargemate/blob/main/public/balance.png)
 
 Once verified you received the correct amount of tokens, open the metamask wallet, scroll down, click **+import token** to import the token. Then you will see the 100 CMN token showed on your account.
 
-![image](https://github.com/Neil-Hong/Chargemate/blob/main/CMN%20Token/image/import.png)
-![image](https://github.com/Neil-Hong/Chargemate/blob/main/CMN%20Token/image/import2.png)
+![image](https://github.com/Neil-Hong/Chargemate/blob/main/public/import.png)
+![image](https://github.com/Neil-Hong/Chargemate/blob/main/public/import2.png)
 
 ---
 
@@ -41,4 +41,4 @@ This is the "Chargemate Token" tokenshop smart contract wrote it in solidity, it
 
 4. `withdraw` function: This function can only be called by the owner of the contract, and it transfers all Ether in the contract to the owner's address. The purpose of this function is to allow the owner of the contract to withdraw Ether from it.
 
-![image](https://github.com/Neil-Hong/Chargemate/blob/main/CMN%20Token/image/tokenshop.png)
+![image](https://github.com/Neil-Hong/Chargemate/blob/main/public/tokenshop.png)

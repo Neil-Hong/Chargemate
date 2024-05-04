@@ -5,8 +5,6 @@ Empowering Eco-Friendly Driving Practices. Project Submisson for EthGlobal Sydne
 
 ## Technology Stack
 
-![alt text](/test/Cover.png)
-
 Worldcoin, Mantle, Base, Chainlink, and NounsDAO
 
 ## ChargeMateNouns ($CMN) Tokens (Testnet)

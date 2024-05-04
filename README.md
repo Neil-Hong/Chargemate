@@ -38,8 +38,6 @@ This project uses multiple blockchains to Empowering Eco-Friendly Driving Practi
 
 ## Smart Contracts to Empower Driver/Community - Mantle & Base Deployment (Testnet)
 
-![alt text](/test/Solution.png)
-
 Two  include: 
 - Reward.sol: Caculate the reward, based on recorded Eco-Friendly driving
 - Convert.sol: Convert the token into USDT
